@@ -1,0 +1,15 @@
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.deps.json
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.runtimeconfig.json
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.dll
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.pdb
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.AssemblyReference.cache
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfo.cs
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.dll
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/refint/Deliverable2.dll
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.pdb
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.genruntimeconfig.cache
+/Users/beniamorgan-ware/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/ref/Deliverable2.dll
